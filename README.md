@@ -24,3 +24,11 @@ Sample Test
         }
       });
     });
+
+Output
+------
+
+    ✔ Sum method of MyMath should return 15 if the input array contains only (1,2,3,4,5)
+    ✔ Sum method of MyMath should return 15 if the input is not an array but contains only (1,2,3,4,5)
+    ✔ Sum method of MyMath should throw an exception with 'Invalid arguments.' message when the parameter list is empty
+      3 test / 3 passed / 0 failed
